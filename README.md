@@ -30,7 +30,8 @@ Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de un
 ⚡️ Fun fact...
  Para subir ficheros a un repositorio:
  ```bash
- git add -a #añade todos los ficheros a git
+ git add -A #añade todos los ficheros a git
  git commit -m "actualizar el readme"
  git push 
+ git pull #para bajar los cambios de un repositorio
  ```
